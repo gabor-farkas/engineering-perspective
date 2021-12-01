@@ -237,3 +237,6 @@ The latest years have shown us how the general public's understanding and trust 
 * [Laudan] Larry Laudan
   * Science and Relativism, 1990, 9780226219332
   * Beyond Positivism and Realism, 1996, 9780813324692
+
+### Social
+This is Github, if you'd like to comment, I encourage you to [open an issue](https://github.com/gabor-farkas/engineering-perspective/issues) and there we can have tematized discussions. Please avoid commenting on commits, but you can use [permalinks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) to refer to certain parts of the text. Creating an account might look geeky, but don't worry, it's free. If you found some of the typos or other nasty grammatical mistakes, you can also open a [pull request](https://github.com/gabor-farkas/engineering-perspective/pulls) :)
