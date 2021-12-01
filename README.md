@@ -10,7 +10,7 @@ In my opinion, most of these discussions, and the current discussions of philoso
 ## What is science?
 A key lesson from studying the history of science is that the very definition of science changes over time. Today's definitions include 'organizing knowledge' and 'testable predictions' among many other terms that definitely didn't apply a thousand years ago.
 
-How do we even talk about the history of science, then, if there's no single, age-independent definition of it? Common history and philosophy of science takes it natural that the natural philosophy of Aristotle or Descartes are part of the past of science, that there's a certain continuity between today's science and Aristotle's philosophy. Why is that?
+How do we even talk about the history of science, then, if there's no single, age-independent definition of it? Common history and philosophy of science takes it natural that the natural philosophy of Aristotle or Descartes are parts of the past of science, that there's a certain continuity between today's science and Aristotle's philosophy. Why is that?
 
 There's a very good reason to assume this continuity. All these efforts try to answer a question about the true nature of reality:
 
@@ -22,7 +22,7 @@ I, however, think that we can have a very different philosophy and history of sc
 
 If we take this question as a backbone, the history of science takes a different turn around the scientific revolution: it goes back to early engineering and craft.
 
-I'll refer to these approaches as the _'philosophical perspective'+ and the _'engineering perspective'_.  (Note that the word 'engineering' shouldn't be taken too strictly here, this is just the best word I could find here. I'll elaborate on this later.)
+I'll refer to these approaches as the _'philosophical perspective' and the _'engineering perspective'_.  (Note that the word 'engineering' shouldn't be taken too strictly here, this is just the best word I could find here. I'll elaborate on this later.)
 
 ## The engineering perspective on the history of science
 Let me give you a short overview on _how I imagine_ the engineering perspective on the history of science, how it is different from the philosophical perspective.
