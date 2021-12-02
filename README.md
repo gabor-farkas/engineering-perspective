@@ -163,7 +163,7 @@ It can be often confusing for people that physicists are talking about things th
 
 They are, however, completely aware that they are not explaining reality in a metaphysical sense. They also often explain that when they say 'an electron is real' they only mean that assuming an electron with the given theories yields good predictions of phenomenae (see Allan Adams above for an example).
 
-On the other hand, physicists are often _realists_. We have to be careful here, because the _principle of realism_ is different from realism as in the philosophy of science. Realism in physics is a principle that assumes that there's an objective reality that is independent from ourselves. Realism in the philosophy of science says that scientific progress in general is necessarily heading towards a description of true reality.
+On the other hand, physicists are often _realists_. We have to be careful here, because the _principle of realism_ is different from realism as in the philosophy of science. Realism in physics is a principle that assumes that there's an objective reality that is independent from ourselves. Realism in the philosophy of science also often claims that scientific theories can be considered genuinely true. The important difference here is that the principle of realism can be applied in physics without stating anything about our current theories of physics, or even assuming that we can ever possibly genuinely describe reality.
 
 In physics, the _instrumentalist_ approach says that all our theories and theoretical entities like electrons or gluons are rather just tools to help with our calculations to predict outcomes.
 
@@ -231,12 +231,12 @@ The latest years have shown us how the general public's understanding and trust 
 
 ### Referenced and related material
 
-* [Hakob] Hakob Barseghyan, Nicholas Overgaard, and Gregory Rupik: Introduction to History and Philosophy of Science https://ecampusontario.pressbooks.pub/introhps/ 
-* [Adams] Allan Adams Quantum Physics course on MIT OpenCourseWare, https://www.youtube.com/watch?v=lZ3bPUKo5zc 
+* [Hakob] Hakob Barseghyan, Nicholas Overgaard, and Gregory Rupik: Introduction to History and Philosophy of Science [https://ecampusontario.pressbooks.pub/introhps/](https://ecampusontario.pressbooks.pub/introhps/) 
+* [Adams] Allan Adams Quantum Physics course on MIT OpenCourseWare, [https://www.youtube.com/watch?v=lZ3bPUKo5zc](https://www.youtube.com/watch?v=lZ3bPUKo5zc) 
 * [Weinberg] Steven Weinberg: To Explain the World: The Discovery of Modern Science, 978-0062346650, 2015
 * [Laudan] Larry Laudan
   * Science and Relativism, 1990, 9780226219332
   * Beyond Positivism and Realism, 1996, 9780813324692
 
 ### Social
-This is Github, if you'd like to comment, I encourage you to [open an issue](https://github.com/gabor-farkas/engineering-perspective/issues) and there we can have tematized discussions. Please avoid commenting on commits, but you can use [permalinks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) to refer to certain parts of the text. Creating an account might look geeky, but don't worry, it's free. If you found some of the typos or other nasty grammatical mistakes, you can also open a [pull request](https://github.com/gabor-farkas/engineering-perspective/pulls) :)
+This is Github, if you'd like to comment, I encourage you to [open an issue](https://github.com/gabor-farkas/engineering-perspective/issues) and there we can have thematized discussions. Please avoid commenting on commits, but you can use [permalinks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) to refer to certain parts of the text. Creating an account might look geeky, but don't worry, it's free. If you found some of the typos or other nasty grammatical mistakes, you can also open a [pull request](https://github.com/gabor-farkas/engineering-perspective/pulls) :)
